@@ -1240,6 +1240,9 @@ h1, h2, h3, h4, h5,
     .mobile-version-team {
       display: block;
     }
+    .move-section-up {
+      margin-top: -400px;
+    }
   }
 
 .navbar {
@@ -1249,3 +1252,12 @@ h1, h2, h3, h4, h5,
 .big-title {
   font-size: 32px;
 }
+
+@media only screen and (max-width: 480px) {
+  .move-right-mobile {
+    max-width: 80vh;
+    margin-left: 20px;
+
+  }
+}
+
