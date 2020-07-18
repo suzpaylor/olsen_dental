@@ -1233,6 +1233,11 @@ h1, h2, h3, h4, h5,
     display: none;
   }
 
+.nav-call-text {
+  font-size: 30px;
+  color: white;
+}
+
   @media only screen and (max-width: 600px) {
     .hide-mobile-photo {
       display: none;
@@ -1243,6 +1248,13 @@ h1, h2, h3, h4, h5,
     .move-section-up {
       margin-top: -300px;
     }
+   
+
+    .nav-call-text {
+      font-size: 24px;
+     padding-top: -60px;
+    }
+
   }
 
 .navbar {
