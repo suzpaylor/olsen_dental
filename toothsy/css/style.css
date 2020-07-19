@@ -1262,7 +1262,7 @@ h1, h2, h3, h4, h5,
 }
 
 .big-title {
-  font-size: 32px;
+  font-size: 28px;
 }
 
 @media only screen and (max-width: 480px) {
