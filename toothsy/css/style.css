@@ -1115,7 +1115,7 @@ h1, h2, h3, h4, h5,
 
   @media only screen and (max-width: 600px) {
     .hide-me-mobile {
-      background-image: url(/images/olsen_family_dental_cute_teeth_3sm.jpg)!important;
+      background-image: url(/images/olsen_family_dental_cute_teeth_3_bright.jpg)!important;
       margin-right: -100px;
     }
     .make-white-mobile {
