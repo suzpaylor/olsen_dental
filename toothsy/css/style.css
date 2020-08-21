@@ -1113,7 +1113,7 @@ h1, h2, h3, h4, h5,
   /* NEW CSS */
   
   html[data-useragent*='MSIE 10.0'] .ie-only {
-    color: red;
+    margin-top: 50px;
   }
 
 
