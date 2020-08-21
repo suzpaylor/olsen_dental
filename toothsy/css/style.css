@@ -1120,6 +1120,7 @@ h1, h2, h3, h4, h5,
     display: none;
   }
 
+  _:-ms-fullscreen, :root .more-ie { margin-top: 100px; }
 
   @media only screen and (max-width: 600px) {
     .hide-me-mobile {
