@@ -1137,6 +1137,25 @@ h1, h2, h3, h4, h5,
     }
   }
 
+.shadow-area {
+  max-width: 75%; 
+  margin-left: 10px; 
+  margin-right: auto; 
+  border: 2px solid blue;
+}
+
+  @media only screen 
+  and (min-device-width: 767px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+.shadow-area {
+  max-width: 80%;
+  margin: auto 0;
+  border: 2px solid green;
+}
+}
+
+
   .feedback {
     /* background-color : #31B0D5; */
     color: white;
