@@ -1314,6 +1314,9 @@ h1, h2, h3, h4, h5,
   }
 }
 
+.site-section-cover.img-bg-section {
+  background-attachment: inherit;
+}
 
 #preload1 {
 
