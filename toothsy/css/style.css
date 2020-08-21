@@ -1122,6 +1122,10 @@ h1, h2, h3, h4, h5,
 
   _:-ms-fullscreen, :root .more-ie { margin-top: 200px; }
 
+  .hide-me-mobile {
+    background-image: url(/images/1812.png);
+  }
+
   @media only screen and (max-width: 600px) {
     .hide-me-mobile {
       background-image: url(/images/olsen_family_dental_cute_teeth_3_bright.jpg)!important;
